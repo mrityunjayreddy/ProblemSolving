@@ -1,0 +1,21 @@
+
+Day 2
+https://leetcode.com/problems/minimum-size-subarray-sum/
+https://leetcode.com/problems/single-element-in-a-sorted-array/
+
+Day 3
+dutch flag algo
+max count of consecutive 1s in a binary string
+max sub arrary of k in a binary string
+maximum lenght of a substring with non repeated characters 
+
+https://practice.geeksforgeeks.org/problems/key-pair5616/1 (Opposite side 2 pointer)
+https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1 (Same side 2 pointer)
+https://leetcode.com/problems/permutation-in-string/ (Sliding window fixed size)
+https://leetcode.com/problems/container-with-most-water/
+
+For practice, try these:
+https://leetcode.com/problems/3sum-closest/
+https://leetcode.com/problems/reverse-words-in-a-string-iii/
+https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/

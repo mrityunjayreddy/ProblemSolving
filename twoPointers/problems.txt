@@ -1,0 +1,20 @@
+
+Two pointers 
+
+level 1 
+https://practice.geeksforgeeks.org/problems/key-pair5616/1
+https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1
+https://practice.geeksforgeeks.org/problems/find-pair-given-difference1559/1
+https://practice.geeksforgeeks.org/problems/count-distinct-pairs-with-difference-k1233/1
+
+https://practice.geeksforgeeks.org/problems/union-of-two-sorted-arrays/1
+https://leetcode.com/problems/intersection-of-two-arrays/
+https://leetcode.com/problems/remove-element/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+
+Level 2
+https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
+https://leetcode.com/problems/3sum-closest/submissions/
+https://leetcode.com/problems/4sum/
+
